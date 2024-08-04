@@ -4,4 +4,4 @@ Entregra final curso python, entrar a carpeta magister
 
 El data set se puede encontrar en el siguiente repositorio
 
-https://www.kaggle.com/datasets/abdulmalik1518/football-players-datasets-2015-2024?phase=FinishSSORegistration&returnUrl=/datasets/abdulmalik1518/football-players-datasets-2015-2024/versions/1?resource=download&SSORegistrationToken=CfDJ8Li1e-GA90hNldzIP3u2GqAcXpUcDboD99niHtulXRz4oSV0La1qLeTjKhPTgpoRGK98gQVuySUkmq9MdnqUl5qVw5IdiLPBHr6qxIL-K3JpXNdSbnEewnXBN4b0u8RL6tTiAWd_t-Pr0GPqeczE7os04H6rN0pj_FY-DW7JjGVzdER8ShTJqwNsSW9pdympnrUAWvwm9ldSCChhLKMq4Z2ZUbgqaTgLCbC1z3bilON6RynZtWbCx2nwOsIJ2gHuATUE3-WMoWquagnVqbdPT_suv2ck774EAfI8Tzbud-Rms_wUYVY0SDFEjp1E_k1g5jt0pL31EU0sFfEDI055pSoMEnipDw-Bh0uwiGexrCa-yA&DisplayName=NFGI11&messageId=invalidEmail&field=Email
+https://www.kaggle.com/datasets/preethamgouda/financial-risk/data
